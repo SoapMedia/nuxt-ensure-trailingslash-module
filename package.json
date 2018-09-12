@@ -5,7 +5,10 @@
   "license": "MIT",
   "contributors": [
     {
-      "name": "Pal Tamas <tamas@soapmedia.co.uk>"
+      "name": "Tamas Pal <tamas@soapmedia.co.uk>"
+    },
+    {
+      "name": "William DA SILVA <william.da.silva@outlook.com>"
     }
   ],
   "main": "lib/module.js",
